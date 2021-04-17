@@ -1,4 +1,4 @@
-FROM registry.suse.com/suse/sles15sp2:latest
+FROM registry.suse.com/suse/sle15:15.2
 LABEL maintainer="Bo Jin <bo.jin@suse.com>"
 LABEL name="SUSE Manager apache build profile"
 LABEL version="1.0"
